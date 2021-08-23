@@ -1,8 +1,16 @@
-# The holy flying spagetti monster web page
+# The Modern FullStack with SpringBoot ReactJs and Redux Web App
 
 ## App Info
 
-Via this app you register to holy flying spagetti monster!
+Via this app, user can login  make CRUD on the web
+
+## Used Technologies
+Mysql
+Spring Boot
+Spring Data JPA & Hibernate
+Redux
+ReactJs
+
 
 ## Online demo
 
@@ -25,12 +33,19 @@ $ cd ReactJS_SpringBoot_Redux_Flying_Spagetti_Monster_App
 
 ```
 
-then start
+then  create a jar file by running following command 
 
 ```
-$ npm start
+$ mvn clean install
 
 ```
+
+after creating jar file  run following command
+
+```
+java -jar mavenreactjsspringboot-0.0.1-SNAPSHOT.jar
+```
+
 
 ## Contributing
 
