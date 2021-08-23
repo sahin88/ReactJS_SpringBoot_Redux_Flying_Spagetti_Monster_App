@@ -10,7 +10,9 @@ YouTube(https://www.youtube.com/watch?v=eVSIst7-YkI)
 
 ## Basic View
 
+<<<<<<< HEAD
 <img with='400px' height='400px' src="https://github.com/sahin88/ReactJS_SpringBoot_Redux_Flying_Spagetti_Monster_App/blob/main/rspagetti_monster.png"/>
+=======
 
 ## Getting Started
 
