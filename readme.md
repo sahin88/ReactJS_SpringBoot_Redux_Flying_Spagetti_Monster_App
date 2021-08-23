@@ -5,11 +5,11 @@
 Via this app, user can login  make CRUD on the web
 
 ## Used Technologies
-Mysql
-Spring Boot
-Spring Data JPA & Hibernate
-Redux
-ReactJs
+* Mysql
+* Spring Boot
+* Spring Data JPA & Hibernate
+* Redux
+* ReactJs
 
 
 ## Online demo
